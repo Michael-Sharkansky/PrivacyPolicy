@@ -1,4 +1,4 @@
-Privacy Policy for Tlush-Kal application
+Privacy Policy for  תלוש-קל  Tlush-Kal application
 
 This application does not collect or store personal user data directly.
 All inputs that may require names or IDs or phone numbers of employees are optional and may be left blank.
@@ -17,5 +17,6 @@ Third-party services used:
 
 This app does not knowingly collect personal information from children.
 
+Developer: Dextra 2025
 If you have any questions about this Privacy Policy,
 please contact: dextraisrael2025@gmail.com
